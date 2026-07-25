@@ -1,0 +1,18 @@
+{
+  "folders": [
+    { "name": "backend", "path": "backend" },
+    { "name": "customer-site", "path": "customer-site" },
+    { "name": "driver-site", "path": "driver-site" },
+    { "name": "admin-site", "path": "admin-site" }
+  ],
+  "settings": {
+    "liveServer.settings.port": 5500
+  },
+  "extensions": {
+    "recommendations": [
+      "ritwickdey.liveserver",
+      "humao.rest-client",
+      "dbaeumer.vscode-eslint"
+    ]
+  }
+}
